@@ -1,0 +1,11 @@
+package com.example;
+
+public class App {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello from Java DevOps Application!");
+        System.out.println("Application built successfully by Jenkins.");
+        System.out.println("Application is running inside Docker.");
+    }
+}
